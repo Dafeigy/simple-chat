@@ -3,6 +3,6 @@
     "model":"gpt-3.5-turbo",
     "headers": {
         "Content-Type": "application/json",
-        "Authorization": "Bearer fk-crazyThursdayvme50 "
+        "Authorization": "Bearer YOUR_KEY"
     }
 }
